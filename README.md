@@ -28,10 +28,6 @@ Project extracted from portfolio folder `Vet_system_9`.
 - `patient.py`
 - `settings.py`
 - `styles.py`
-- `__pycache__\analytics.cpython-311.pyc`
-- `__pycache__\appointments.cpython-311.pyc`
-- `__pycache__\billing.cpython-311.pyc`
-
 ## 📸 Preview
 No preview image found.
 
